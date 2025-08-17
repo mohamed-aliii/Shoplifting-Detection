@@ -44,7 +44,7 @@ This project implements a shoplifting detection system using deep learning techn
 
 - **Backend Framework**: Django
 - **Deep Learning**: PyTorch
-- **Model Architecture**: R2Plus1D_18 for video classification
+- **Model Architecture**: mc3_18 for video classification
 - **Frontend**: Bootstrap, jQuery for async requests
 - **Video Processing**: torchvision.io
 - **Database**: SQLite3
