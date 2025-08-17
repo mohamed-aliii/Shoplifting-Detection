@@ -1,11 +1,11 @@
-# Shoplifting Detection System
+# <center>Shoplifting Detection System<center>
 
-A deep learning-based video analysis system that detects shoplifting incidents using a CNN-LSTM architecture. The system is implemented as a Django web service that processes video uploads and provides real-time detection results.
+A deep learning-based video analysis system that detects shoplifting incidents using a Mixed 2D/3D CNN architecture. The system is implemented as a Django web service that processes video uploads and provides real-time detection results.
 
 ## Project Overview
 
 This project implements a shoplifting detection system using deep learning techniques. It combines:
-- A PyTorch-based video classification model (R2Plus1D_18)
+- A PyTorch-based video classification model (mc3_18)
 - A Django web interface for video upload and analysis
 - Real-time video processing pipeline
 - Results visualization and storage
@@ -160,7 +160,10 @@ The system includes comprehensive error handling for:
 
 ## License
 
-[Your License Here]
+MIT License
+
+Copyright (c) 2025 Mohamed Ali Ghonem
+
 
 ## Acknowledgments
 
@@ -168,6 +171,4 @@ The system includes comprehensive error handling for:
 - PyTorch team
 - Django community
 
-## Contact
 
-[Your Contact Information]
