@@ -1,4 +1,4 @@
- <center> Shoplifting Detection System <center>
+# <div align="center"> Shoplifting Detection System </div>
 
 A deep learning-based video analysis system that detects shoplifting incidents using a Mixed 2D/3D CNN architecture. The system is implemented as a Django web service that processes video uploads and provides real-time detection results.
 
